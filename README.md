@@ -21,11 +21,6 @@ Here is the running interface showing the custom neon HUD panels and unified int
 
 ---
 
-## 📊 Sample Terminal Output
-
-When modules are executed, the backend processing pipelines handle image tracking matrices and log environment cycles directly to the console:
-
-![Terminal Execution Output]
 
 
 
@@ -97,9 +92,11 @@ Captures structural feeds and processes automated direct storage management rout
    cd Smart-CCTV-Monitoring-Project-
    Install dependencies:
 
+
 Bash
 pip install customtkinter pillow opencv-python
-Run the application:
 
+
+Run the application:
 Bash
 python main.py
