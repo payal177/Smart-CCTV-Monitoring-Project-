@@ -40,7 +40,7 @@ A futuristic, real-time security monitoring dashboard built with Python, CustomT
 The system is designed with a modular structure, separating real-time frame processing from identification storage matrices.
 
 ![Smart CCTV System Flowchart]
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2af1dd07-fc12-4e94-bc99-6af77bf23a03" />
+<img width="650" height="300" alt="image" src="https://github.com/user-attachments/assets/2af1dd07-fc12-4e94-bc99-6af77bf23a03" />
 
 
 ---
@@ -77,7 +77,7 @@ Initiates face assessment cascades to capture facial profiles, comparing them in
 Captures structural feeds and processes automated direct storage management routines, keeping tracking recordings organized cleanly inside standard directory formats.
 
 ![Automated Video Storage Pipeline]
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/61bfc3fe-b736-47d1-a611-d22b6756771e" />
+<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/61bfc3fe-b736-47d1-a611-d22b6756771e" />
 
 
 ---
