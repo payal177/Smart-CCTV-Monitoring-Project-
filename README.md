@@ -1,5 +1,5 @@
 # Smart CCTV - Monitoring System 
-A futuristic, real-time security monitoring dashboard built with Python, CustomTkinter, and OpenCV. This application features an integrated tactical HUD overlay with interactive tracking modules.
+A futuristic, real-time security monitoring dashboard built with Python, CustomTkinter, and OpenCV. This application features an integrated tactical  overlay with interactive tracking modules.
 
 ---
 
@@ -84,19 +84,12 @@ Captures structural feeds and processes automated direct storage management rout
    ```bash
    git clone [https://github.com/payal177/Smart-CCTV-Monitoring-Project-.git](https://github.com/payal177/Smart-CCTV-Monitoring-Project-.git)
    cd Smart-CCTV-Monitoring-Project-
-## 🛠️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/payal177/Smart-CCTV-Monitoring-Project-.git](https://github.com/payal177/Smart-CCTV-Monitoring-Project-.git)
-   cd Smart-CCTV-Monitoring-Project-
-   Install dependencies:
 
 
-Bash
+
+Bash:
 pip install customtkinter pillow opencv-python
 
 
 Run the application:
-Bash
 python main.py
