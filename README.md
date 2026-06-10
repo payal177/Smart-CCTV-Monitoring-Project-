@@ -1,5 +1,4 @@
-# Smart CCTV - Advanced Tactical HUD Monitoring
-
+# Smart CCTV - Monitoring System 
 A futuristic, real-time security monitoring dashboard built with Python, CustomTkinter, and OpenCV. This application features an integrated tactical HUD overlay with interactive tracking modules.
 
 ---
@@ -25,7 +24,9 @@ Here is the running interface showing the custom neon HUD panels and unified int
 
 When modules are executed, the backend processing pipelines handle image tracking matrices and log environment cycles directly to the console:
 
-![Terminal Execution Output](icons/YOUR_TERMINAL_SCREENSHOT.png)
+![Terminal Execution Output]
+<img width="1025" height="667" alt="image" src="https://github.com/user-attachments/assets/f40083d5-b139-4079-97e6-4fb80de356fb" />
+
 
 ---
 
