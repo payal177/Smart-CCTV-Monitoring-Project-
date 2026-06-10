@@ -40,7 +40,7 @@ A futuristic, real-time security monitoring dashboard built with Python, CustomT
 The system is designed with a modular structure, separating real-time frame processing from identification storage matrices.
 
 ![Smart CCTV System Flowchart]
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/2af1dd07-fc12-4e94-bc99-6af77bf23a03" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2af1dd07-fc12-4e94-bc99-6af77bf23a03" />
 
 
 ---
@@ -53,7 +53,7 @@ Implements real-time frame-differencing algorithms to track dynamic movements. W
 | Motion Thresholding | Live Target Contours |
 | :---: | :---: |
 | ![Motion Matrix] | ![Target Tracking Box]|
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7a7472d4-a3f2-44c3-ae85-c7d0b2031052" />
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/7a7472d4-a3f2-44c3-ae85-c7d0b2031052" />
 
 
 *Left: Binary delta view showing threshold changes. Right: Red bounding indicator mapping dynamic motion zones.*
@@ -66,7 +66,7 @@ Initiates face assessment cascades to capture facial profiles, comparing them in
 | Face Recognition Engine | System Dataset Training Set |
 | :---: | :---: |
 | ![Live Scan Match] | ![Local Database Directory]|
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/78ebff03-def6-4b12-920d-4832b9a67d85" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/78ebff03-def6-4b12-920d-4832b9a67d85" />
 
 
 *Left: Real-time user match configuration mapping a green confirmation anchor. Right: Structured grid system storing baseline profile snapshots.*
@@ -77,7 +77,7 @@ Initiates face assessment cascades to capture facial profiles, comparing them in
 Captures structural feeds and processes automated direct storage management routines, keeping tracking recordings organized cleanly inside standard directory formats.
 
 ![Automated Video Storage Pipeline]
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/61bfc3fe-b736-47d1-a611-d22b6756771e" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/61bfc3fe-b736-47d1-a611-d22b6756771e" />
 
 
 ---
