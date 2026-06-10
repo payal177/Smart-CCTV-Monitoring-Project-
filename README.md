@@ -7,7 +7,8 @@ A futuristic, real-time security monitoring dashboard built with Python, CustomT
 
 Here is the running interface showing the custom neon HUD panels and unified interactive elements:
 
-![Smart CCTV Tactical HUD](icons/YOUR_DASHBOARD_SCREENSHOT.png)
+![Smart CCTV Tactical]
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f40083d5-b139-4079-97e6-4fb80de356fb" />
 
 ---
 
@@ -25,7 +26,7 @@ Here is the running interface showing the custom neon HUD panels and unified int
 When modules are executed, the backend processing pipelines handle image tracking matrices and log environment cycles directly to the console:
 
 ![Terminal Execution Output]
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f40083d5-b139-4079-97e6-4fb80de356fb" />
+
 
 
 ---
@@ -77,7 +78,7 @@ Initiates face assessment cascades to capture facial profiles, comparing them in
 Captures structural feeds and processes automated direct storage management routines, keeping tracking recordings organized cleanly inside standard directory formats.
 
 ![Automated Video Storage Pipeline]
-<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/61bfc3fe-b736-47d1-a611-d22b6756771e" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/61bfc3fe-b736-47d1-a611-d22b6756771e" />
 
 
 ---
